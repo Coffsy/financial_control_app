@@ -30,7 +30,7 @@
 .pub-cache/
 .pub/
 /build/
-*.g
+*.g.dart
 *.lock
 
 # Web related
